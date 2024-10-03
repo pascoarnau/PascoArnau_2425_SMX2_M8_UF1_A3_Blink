@@ -5,3 +5,6 @@ Blink es un motor de renderizado de navegadores web utilizado principalmente en 
 ## **Origen de Blink**:
 * Blink fue desarrollado por Google en **2013**, cuando decidió separar el proyecto del motor **WebKit**, que también era utilizado por **Safari**.
 + Google quería tener más control sobre el desarrollo del motor y realizar cambios estructurales que mejoraran la velocidad, estabilidad y compatibilidad de su navegador. Esto llevó a la creación de Blink como un "fork" (derivación) de WebKit.
+
+<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A3_Blink/blob/main/ftoblink.webp" alt="ftoblink" width="300">
+
